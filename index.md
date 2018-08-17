@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to International Conference of Semantic Computing Resource 2019 (ICSCR 2019)
 
-You can use the [editor on GitHub](https://github.com/digamarx/icscresource/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+ICSC Resource is an appropriate venue to publish datasets, machine learning models, indexes, benchmarks, ontologies, libraries, APIs and tools that demand a high effort to be developed and can have a high impact on advancing the state of the art of semantic technologies.
+Papers describing resources rarely receive the same recognition as research papers, therefore ICSC, being among the highest-ranked venues for Semantic Computing research, will start to consider such works as well. The main requirements for resource papers are: (I) an objective but precise description of the resource; (II) an open license; and (III) to make the resource available to other users through a permanent link.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Review Criteria
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Availability
+Is the resource publicly available through a DOI or permanent link (e.g., https://figshare.com, https://w3id.org)?
+Is the resource backed by an open-source license (e.g., creativecommons.org, opensource.org)?
 
-```markdown
-Syntax highlighted code block
+#### Impact
+Is the resource relevant to the community?
+Does the resource have a practical use?
+Does the resource help to (re)evaluate approaches and/or perform research tasks?
+Does the resource follow existing best practices (e.g., use a human- and machine-readable format in case of a dataset, reuse upper schemata in the case of an ontology)?
+Can the resource be used to improve the state of the art?
+ 
+#### Usability
+Is the resource published with a reasonable documentation that provides an easy understanding on how to use the resource?
+Is the resource easy to use?
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Submission details
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/digamarx/icscresource/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Papers must have between 4 and 8 pages, be written in English and follow the instructions in the Manuscript Formatting and Templates page.
+More details coming soon.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[contact support](http://emarx.org)
