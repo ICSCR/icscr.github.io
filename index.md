@@ -27,6 +27,6 @@ Is the resource easy to use?
 Papers must have between 4 and 8 pages, be written in English and follow the instructions in the Manuscript Formatting and Templates page.
 More details coming soon.
 
-### Support or Contact
+### Contact
 
-If you have any doubt or want any further details about the conference, you can contact us at [http://emarx.org](http://emarx.org).
+If you have any doubt or want any further details about the conference, you can contact us at icscr2019@easychair.org.
