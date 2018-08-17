@@ -29,4 +29,4 @@ More details coming soon.
 
 ### Support or Contact
 
-[contact support](http://emarx.org)
+If you have any doubt or want any further details about the conference, you can contact us at [http://emarx.org](http://emarx.org).
