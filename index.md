@@ -29,4 +29,4 @@ More details coming soon.
 
 ### Contact
 
-If you have any doubt or want any further details about the conference, you can contact us at icscr2019@easychair.org.
+If you have any doubt or want any further details about the conference, you can contact us at icscr2020@easychair.org.
