@@ -1,3 +1,7 @@
+--
+title: ICSCR 2020
+description: The 14th IEEE International Conference on Semantic Computing – Resource Track 2020
+--
 ## Welcome to the 14th IEEE International Conference on Semantic Computing – Resource Track (ICSCR 2020)
 
 ICSC Resource is an appropriate venue to publish datasets, machine learning models, indexes, benchmarks, ontologies, libraries, APIs and tools that demand a high effort to be developed and can have a high impact on advancing the state of the art of semantic technologies.
