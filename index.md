@@ -1,3 +1,10 @@
+---
+theme: jekyll-theme-cayman
+title: ICSCR 2021
+description: The 15th IEEE International Conference on Semantic Computing – Resource Track 2021
+permalink: /
+---
+
 ## Welcome to the 15th IEEE International Conference on Semantic Computing – Resource Track (ICSCR 2021)
 
 ICSCR is an appropriate venue to publish datasets, machine learning models, indexes, benchmarks, ontologies, libraries, APIs and tools that demand a high effort to be developed and can have a high impact on advancing the state of the art of semantic technologies.
