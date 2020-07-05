@@ -47,7 +47,7 @@ Papers must have between 4 and 8 pages, be written in English and follow the ins
 
 ### Archive
 
-* [ICSCR 2020](./2020.html)
+* [ICSCR 2020](./2020/)
 
 ### Contact
 If you have any doubt or want any further details about the conference, you can contact us at [marx@informatik.uni-leipzig.de](mailto:marx@informatik.uni-leipzig.de).
