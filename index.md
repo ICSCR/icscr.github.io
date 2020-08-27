@@ -39,18 +39,35 @@ Papers must have between 4 and 8 pages, be written in English and follow the ins
 * Camera-ready and Registration Deadline: **December 1, 2020, 11:59pm PST**
 
 ### Commission
-#### Track Co-chairs
+#### Track Chair
 * Edgard Marx, Leipzig University of Applied Sciences, Germany
+
+#### Organizing Committee
 * Tommaso Soru, University of Leipzig, Germany
+* Edgard Marx, Leipzig University of Applied Sciences, Germany
 
 #### Program Committee (tentative)
-* Ivan Ermilov, University of Leipzig, Germany
-* Ali Khalili, Vrije Universiteit Amsterdam, The Netherlands
-* Mohamed Morsey, University of Amsterdam, The Netherlands
-* Diego Moussallem, University of Leipzig, Germany
-* Mohamed Saleem, University of Leipzig, Germany
+* Natanael Arndt, INFAI, Germany
+* Oana Inel, Vrije Universiteit Amsterdam, Netherlands
+* Sepideh Mesbah, Delft University of Technology, Netherlands
+* Harsh Thakkar, Bonn University, Germany
+* Giuseppe Rizzo, Istituto Superiore Mario Boella, Italy
+* Annalisa Gentile, IBM, United States
+* Gëzim Sejdiu, Bonn University, Germany
+* Adrian Brasoveanu, MODUL University Vienna, Austria
+* Claus Stadler, Leipzig University, Germany
+* Fajar Ekaputra, TU Vienna, Austria
+* Ivan Ermilov, Leipzig University, Germany
+* Muhammad Saleem, Leipzig University, Germany
 * Saeedeh Shekarpour, University of Dayton, USA
 * Mohamed Sherif, Paderborn University, Germany
+* Amrapali Zaveri, Maastricht University, The Netherlands
+* Adrian Brasoveanu, MODUL Technology GmbH, Austria
+* Kuldeep Singh, Fraunhofer IAIS, Germany
+* Diego Esteves, Bonn University, Germany
+* Carlos Badenes-Olmedo, Polytechnic Madrid University, Spain
+* Farshad Badie, Aalborg University, Denmark
+* Jose Viterbo, Fluminense Federal University, Brazil
 
 ### Archive
 
