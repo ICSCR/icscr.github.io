@@ -5,7 +5,7 @@ permalink: /
 
 # ICSCR 2021
 
-## Welcome to the International Conference on Semantic Computing Resource
+## Welcome to the IEEE International Conference on Semantic Computing Resource Track
 
 ICSCR is an appropriate venue to publish datasets, machine learning models, indexes, benchmarks, ontologies, libraries, APIs and tools that demand a high effort to be developed and can have a high impact on advancing the state of the art of semantic technologies.
 Papers describing resources rarely receive the same recognition as research papers, therefore ICSCR considers such works as well. The main requirements for resource papers are: (I) an objective but precise description of the resource; (II) an open license; and (III) to make the resource available to other users through a permanent link.
@@ -31,6 +31,7 @@ We are particularly encouraging ontologies and RDF dataset submissions available
 
 ### Submission details
 Papers must have between 4 and 8 pages, be written in English and follow the instructions in the Manuscript Formatting and Templates page.
+Other details in the main track website.
 
 #### Important dates
 * Abstract Submission Deadline: **September 28, 2020, 11:59pm PDT**
