@@ -5,7 +5,7 @@ permalink: /
 
 # ICSCR 2021
 
-## Welcome to the IEEE International Conference on Semantic Computing Resource Track
+## Welcome to the Resource Track of the IEEE International Conference on Semantic Computing
 
 ICSCR is an appropriate venue to publish datasets, machine learning models, indexes, benchmarks, ontologies, libraries, APIs and tools that demand a high effort to be developed and can have a high impact on advancing the state of the art of semantic technologies.
 Papers describing resources rarely receive the same recognition as research papers, therefore ICSCR considers such works as well. The main requirements for resource papers are: (I) an objective but precise description of the resource; (II) an open license; and (III) to make the resource available to other users through a permanent link.
@@ -62,7 +62,6 @@ Other details in the main track website.
 * Muhammad Saleem, Leipzig University, Germany
 * Saeedeh Shekarpour, University of Dayton, USA
 * Mohamed Sherif, Paderborn University, Germany
-* Amrapali Zaveri, Maastricht University, The Netherlands
 * Adrian Brasoveanu, MODUL Technology GmbH, Austria
 * Kuldeep Singh, Fraunhofer IAIS, Germany
 * Diego Esteves, Bonn University, Germany
