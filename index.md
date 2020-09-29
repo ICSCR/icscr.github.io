@@ -32,7 +32,6 @@ We are particularly encouraging ontologies and RDF dataset submissions available
 ### Submission details
 Papers must have between 4 and 8 pages, be written in English and follow the instructions in the Manuscript Formatting and Templates page.
 All papers should be submitted to [this submission link](https://easychair.org/conferences/?conf=icsc2021) under Resource Track. Other details in the [main track website](https://www.ieee-icsc.org/).
-Other details in the main track website.
 
 #### Important dates
 * Abstract Submission Deadline: **September 28, 2020, 11:59pm PDT**
