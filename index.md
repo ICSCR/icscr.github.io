@@ -40,12 +40,9 @@ All papers should be submitted to [this submission link](https://easychair.org/c
 * Camera-ready and Registration Deadline: ~December 1, 2020, 11:59pm PST~ **December 7, 2020, 11:59pm PST**
 
 ### Commission
-#### Track Chair
+#### Track Co-Chairs
 * Edgard Marx, Leipzig University of Applied Sciences, Germany
-
-#### Organizing Committee
 * Tommaso Soru, University of Leipzig, Germany
-* Edgard Marx, Leipzig University of Applied Sciences, Germany
 
 #### Program Committee (tentative)
 * Natanael Arndt, INFAI, Germany
