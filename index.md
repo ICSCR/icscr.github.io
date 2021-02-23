@@ -36,8 +36,8 @@ All papers should be submitted to [this submission link](https://easychair.org/c
 #### Important dates
 * (Optional) Abstract Submission Deadline: September 16, 2021, 11:59pm PDT
 * Full Paper Submission Deadline: October 1, 2021, 11:59pm PDT
-* Notification of acceptance: November 10, 2020, 11:59pm PST
-* Camera-ready and Registration Deadline: December 15, 2020, 11:59pm PST
+* Notification of acceptance: November 10, 2021, 11:59pm PST
+* Camera-ready and Registration Deadline: December 15, 2021, 11:59pm PST
 
 ### Commission
 #### Track Co-Chairs
