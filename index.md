@@ -43,28 +43,24 @@ All papers should be submitted to [this submission link](https://easychair.org/c
 #### Track Co-Chairs
 * Edgard Marx, Leipzig University of Applied Sciences, Germany
 * Tommaso Soru, University of Leipzig, Germany
+* Saeedeh Shekarpour, University of Dayton, USA
+* Kuldeep Singh, Fraunhofer IAIS, Germany
 
-#### Program Committee (tentative)
+#### Program Committee
 * Natanael Arndt, INFAI, Germany
-* Oana Inel, Vrije Universiteit Amsterdam, Netherlands
 * Sepideh Mesbah, Delft University of Technology, Netherlands
 * Harsh Thakkar, Bonn University, Germany
-* Giuseppe Rizzo, Istituto Superiore Mario Boella, Italy
-* Annalisa Gentile, IBM, United States
 * Gëzim Sejdiu, Bonn University, Germany
 * Adrian Brasoveanu, MODUL University Vienna, Austria
 * Claus Stadler, Leipzig University, Germany
 * Fajar Ekaputra, TU Vienna, Austria
 * Ivan Ermilov, Leipzig University, Germany
-* Muhammad Saleem, Leipzig University, Germany
 * Saeedeh Shekarpour, University of Dayton, USA
 * Mohamed Sherif, Paderborn University, Germany
 * Adrian Brasoveanu, MODUL Technology GmbH, Austria
 * Kuldeep Singh, Fraunhofer IAIS, Germany
-* Diego Esteves, Bonn University, Germany
-* Carlos Badenes-Olmedo, Polytechnic Madrid University, Spain
+* Diego Esteves, Farfetch, portugal
 * Farshad Badie, Aalborg University, Denmark
-* Jose Viterbo, Fluminense Federal University, Brazil
 
 ### Archive
 
