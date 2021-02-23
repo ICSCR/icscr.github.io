@@ -59,7 +59,7 @@ All papers should be submitted to [this submission link](https://easychair.org/c
 * Mohamed Sherif, Paderborn University, Germany
 * Adrian Brasoveanu, MODUL Technology GmbH, Austria
 * Kuldeep Singh, Fraunhofer IAIS, Germany
-* Diego Esteves, Farfetch, portugal
+* Diego Esteves, Farfetch, Portugal
 * Farshad Badie, Aalborg University, Denmark
 
 ### Archive
