@@ -3,7 +3,7 @@ theme: jekyll-theme-cayman
 permalink: /
 ---
 
-# ICSCR 2021
+# ICSCR 2022
 
 ## Welcome to the Resource Track of the IEEE International Conference on Semantic Computing
 
@@ -31,7 +31,7 @@ We are particularly encouraging ontologies and RDF dataset submissions available
 
 ### Submission details
 Papers must have between 4 and 8 pages, be written in English and follow the instructions in the Manuscript Formatting and Templates page.
-All papers should be submitted to [this submission link](https://easychair.org/conferences/?conf=icsc2021) under Resource Track. Other details in the [main track website](https://www.ieee-icsc.org/).
+All papers should be submitted to [this submission link](https://easychair.org/conferences/?conf=icsc2022) under Resource Track. Other details in the [main track website](https://www.ieee-icsc.org/).
 
 #### Important dates
 * (Optional) Abstract Submission Deadline: ~September 28, 2020, 11:59pm PDT~ **October 12, 2020, 11:59pm PDT**
@@ -42,12 +42,12 @@ All papers should be submitted to [this submission link](https://easychair.org/c
 ### Commission
 #### Track Co-Chairs
 * Edgard Marx, Leipzig University of Applied Sciences, Germany
+
+#### Program Committee (Tentative)
+* Natanael Arndt, INFAI, Germany
 * Tommaso Soru, University of Leipzig, Germany
 * Saeedeh Shekarpour, University of Dayton, USA
 * Kuldeep Singh, Fraunhofer IAIS, Germany
-
-#### Program Committee
-* Natanael Arndt, INFAI, Germany
 * Sepideh Mesbah, Delft University of Technology, Netherlands
 * Harsh Thakkar, Bonn University, Germany
 * Gëzim Sejdiu, Bonn University, Germany
@@ -64,6 +64,7 @@ All papers should be submitted to [this submission link](https://easychair.org/c
 
 ### Archive
 
+* [ICSCR 2021](./2021/)
 * [ICSCR 2020](./2020/)
 
 ### Contact
