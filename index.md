@@ -34,10 +34,10 @@ Papers must have between 4 and 8 pages, be written in English and follow the ins
 All papers should be submitted to [this submission link](https://easychair.org/conferences/?conf=icsc2022) under Resource Track. Other details in the [main track website](https://www.ieee-icsc.org/).
 
 #### Important dates
-* (Optional) Abstract Submission Deadline: September 28, 2020, 11:59pm PDT
-* Full Paper Submission Deadline: October 15, 2020, 11:59pm PDT
-* Notification of acceptance: November 15, 2020, 11:59pm PST
-* Camera-ready and Registration Deadline: December 1, 2020, 11:59pm PST
+* (Optional) Abstract Submission Deadline: September 16, 2021, 11:59pm PDT
+* Full Paper Submission Deadline: October 1, 2021, 11:59pm PDT
+* Notification of acceptance: November 10, 2020, 11:59pm PST
+* Camera-ready and Registration Deadline: December 15, 2020, 11:59pm PST
 
 ### Commission
 #### Track Co-Chairs
