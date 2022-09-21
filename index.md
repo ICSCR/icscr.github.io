@@ -31,7 +31,7 @@ We are particularly encouraging ontologies and RDF dataset submissions available
 
 ### Submission details
 Papers must have between 4 and 8 pages, be written in English and follow the instructions in the Manuscript Formatting and Templates page.
-All papers should be submitted to [this submission link](https://easychair.org/conferences/?conf=icsc2022) under Resource Track. Other details in the [main track website](https://www.ieee-icsc.org/).
+All papers should be submitted under Resource Track. Other details in the [main track website](https://www.ieee-icsc.org/).
 
 ### Commission
 #### Track Co-Chairs
@@ -58,6 +58,7 @@ All papers should be submitted to [this submission link](https://easychair.org/c
 
 ### Archive
 
+* [ICSCR 2022](./2022/)
 * [ICSCR 2021](./2021/)
 * [ICSCR 2020](./2020/)
 
