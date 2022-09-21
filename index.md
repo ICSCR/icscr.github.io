@@ -3,7 +3,7 @@ theme: jekyll-theme-cayman
 permalink: /
 ---
 
-# ICSCR 2022
+# ICSCR 2023
 
 ## Welcome to the Resource Track of the IEEE International Conference on Semantic Computing
 
